@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="icon" href="https://images.vexels.com/media/users/3/155474/isolated/preview/4e12cd94f7591c3c851fce62fdc3d463-x-kreuz-doodle-symbol.png" />
+    <title>Xeviva_Downloader</title>
+  
+  <link rel="stylesheet" href="/style.css" />
+  <style>
+    .body {
+      font-family: HK Grotesk;
+    }
+  .back-tohome {
+    background-color: #9eff51;
+    display: inline-block;
+  }
+  .back-tohome a {
+    font-size:  18px;
+    font-color: black;
+    display: block; 
+  }
+  .back-tohome a:hover {
+    transition: 0.4s;
+    background-color: #f7ff51;
+    font-size: 22px;
+  }
+      .game-name {
+    background-color:  #9eff51;
+    font-size: 20px;
+    display: inline-block
+  }
+  .game-name:hover {
+    transition: 0.4s;
+    background-color:  #f7ff51;
+    font-size: 24px;
+    cursor: pointer;
+    }
+     .underview {
+    background-color: #f7ff51;
+    display: inline-block;
+    height: 500px;
+    cursor: pointer; 
+  }
+  .underview:hover {
+    transition: 0.4s;
+    font-size: 27px;
+    
+  }
+    
+  .game-info {
+    font-size: 15px;
+    display: inline-block;
+    border-size: 5px;
+    border-color:  #ffffff ;
+  }
+     .download {
+    font-size: 15px;
+    background-color: #9eff51;
+    display: inline-block;
+  }
+  .download a {
+    font-size:  18px;
+    font-color: black;
+    display: block; 
+  }
+  .download a:hover {
+    transition: 0.4s;
+    background-color: #f7ff51;
+    font-size: 22px;
+  }
+    .present {
+      
+    }
+    .topline--topic {
+      color: white;
+      font-size: 50px;
+    }
+    .-pic {
+      cursor: pointer;
+    }
+    .--go {
+      background-color: #15171e;
+      display: inline-block;
+      
+    }
+.start-button img {
+	width: 25%;
+	height: auto;
+	/* SCALE */
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-ms-transform: scale(1);
+	-o-transform: scale(1);
+	transform: scale(1);
+	/* VERZÖGERUNG */
+	-webkit-transition: all 0.3s linear;
+	-moz-transition: all 0.3s linear;
+	-ms-transition: all 0.3s linear;
+	-o-transition: all 0.3s linear;
+	transition: all 0.3s linear;
+}
+    .start-button img:hover {
+	-webkit-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	transform: scale(1.2);
+}
+    .gif img {
+	width: 50%;
+	height: auto;
+	/* SCALE */
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-ms-transform: scale(1);
+	-o-transform: scale(1);
+	transform: scale(1);
+	/* VERZÖGERUNG */
+	-webkit-transition: all 0.3s linear;
+	-moz-transition: all 0.3s linear;
+	-ms-transition: all 0.3s linear;
+	-o-transition: all 0.3s linear;
+	transition: all 0.3s linear;
+}
+    .gif img:hover {
+	-webkit-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	transform: scale(1.2);
+}
+    .mySlides {display:none;}
+    
+
+    .L-control {
+      font-size: 20px;
+    }
+    .L-control:hover {
+      font-size: 25px;
+      transition: 0.5s;
+      transition-delay: 0.2s;
+      cursor: pointer;
+      background-color:  #b8b8b8;
+    }
+    .R-control {
+      font-size: 20px;
+    }
+    .R-control:hover {
+      font-size: 25px;
+      transition: 0.5s;
+      transition-delay: 0.2s;
+      cursor: pointer;
+      background-color:  #b8b8b8;
+    }
+    .Quellcode {
+      color: white;
+      font-size: 20px;
+    }
+    .Quellcode a {
+      text-decoration: none;
+      background-color: white;
+      display: inline-block;
+      border-radius: 3px;
+    }
+    .Quellcode a:hover {
+      text-decoration: underline;
+      background-color: #cacaca;
+      border-radius: 7px;
+      transition: 0.4s;
+    }
+    
+    
+    
+  </style>
+</head>
+<body>
+    <div class="back-tohome">
+      <a href="/index.html">back</a>
+  </div>
+  <br><br><br><br><br>
+  <center>
+    <div class="topline--topic">
+      The present from 30.12.2022
+    </div>
+<div class="gif">
+  <img height="500" weight="500" src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/49640/wrapped-gift-emoji-clipart-md.png">
+    </div>
+    <div class="topline--topic">
+      Forge of Empires
+    </div>
+    <div class="--go">
+      <a href="#.FORGE.OF.EMPIRES.#"><img class="-pic" height="350" weight="350" src="https://www.bestebrowsergames.de/_image.php?type=game&name=forge_of_empires-1.png&w=1240&h=776"></a>
+    <br><br>
+   <div class="start-button">
+      <a href="#StartTIS---Game-Quellcode--62983488473static==?!:true_while:adutyaccess.-elimm."><img height="250" weight="250" src="https://cdn.glitch.global/6a1565a5-d2a1-46e3-9477-c6bc663a0800/png-transparent-play-button-resource-icon-the-start-button-game-computer-network-painted.png?v=1672350117756"></a>
+      </div>
+       <div class="Quellcode">
+        <a href="https://www.bestebrowsergames.de/weiterleitung/forge_of_empires.html">Next<h5>
+          (start)
+          </h5></a>
+         <br>
+         <a href="https://de0.forgeofempires.com/page/">Go to launcher</a>
+      </div>
+      <br>
+      <br>
+      <br>
+
+      
+      
+      <div class="w3-content w3-display-container">
+  <img class="mySlides" src="https://www.bestebrowsergames.de/_image.php?type=game&name=forge_of_empires-1.png&w=1240&h=776" style="width:40%">
+  <img class="mySlides" src="https://www.bestebrowsergames.de/_image.php?type=game&name=forge_of_empires-5.png&w=1240&h=776" style="width:40%">
+  <img class="mySlides" src="https://www.bestebrowsergames.de/_image.php?type=game&name=forge_of_empires-6.png&w=1240&h=776" style="width:40%">
+  <img class="mySlides" src="https://www.bestebrowsergames.de/_image.php?type=game&name=forge_of_empires-7.png&w=1240&h=776" style="width:40%">
+ <img class="mySlides" src="https://www.bestebrowsergames.de/_image.php?type=game&name=forge_of_empires-8.png&w=1240&h=776" style="width:40%">
+  <img class="mySlides" src="https://www.bestebrowsergames.de/_image.php?type=game&name=forge_of_empires-9.png&w=1240&h=776" style="width:40%">
+ <img class="mySlides" src="https://www.bestebrowsergames.de/_image.php?type=game&name=forge_of_empires-2.jpg&w=1240&h=776" style="width:40%">
+  <img class="mySlides" src="https://www.bestebrowsergames.de/_image.php?type=game&name=forge_of_empires-3.jpg&w=1240&h=776" style="width:40%">
+  <img class="mySlides" src="https://www.bestebrowsergames.de/_image.php?type=game&name=forge_of_empires-6.jpg&w=1240&h=776" style="width:40%">
+  <img class="mySlides" src="https://www.bestebrowsergames.de/_image.php?type=game&name=forge_of_empires-4.jpg&w=1240&h=776" style="width:40%">
+  <img class="mySlides" src="https://www.bestebrowsergames.de/_image.php?type=game&name=forge_of_empires-5.jpg&w=1240&h=776" style="width:40%">
+        
+  <button  class="L-control" onclick="plusDivs(-1)">&#10094;</button>
+  <button  class="R-control" onclick="plusDivs(1)">&#10095;</button>
+</div>
+      <script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+      
+      
+      
+    </div>
+    <div class="Quellcode">
+      <br>
+      -----------------------------------
+      <br>
+      To the Code
+      <br>
+      -----------------------------------
+      <br>
+      <div>
+        <a href="/code.txt">Next</a>
+      </div>
+    </div>
+    
+        </div>
+    <div class="Quellcode">
+      <br>
+      -----------------------------------
+      <br>
+      More Games
+      <br>
+      -----------------------------------
+      <br>
+      <div>
+        <a href="https://www.innogames.com/de/">Next</a>
+      </div>
+    </div>
+  </center>
+</body>
+</html>
